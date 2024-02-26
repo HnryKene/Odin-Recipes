@@ -1,7 +1,42 @@
-body {
-    background-color: beige;
+
+.index{
+    background-color: rgb(234, 243, 244);
 }
 
-h1 {
-    color:navajowhite;
+.lasagna {
+    background-color: ghostwhite;
 }
+.lasagna-header {
+    color:goldenrod;
+}
+.lasagna, p {
+    font-size: 20px;
+}
+
+
+
+
+.jollof-rice {
+    background-color: rgb(246, 215, 159);
+    font-size: 20px;
+    
+   
+}
+.jollof-header {
+    color:goldenrod;
+}
+
+
+.fried-rice {
+    background-color: blanchedalmond;
+}
+.fried-rice, .fried-header {
+    color:goldenrod;
+}
+.fried-rice, p {
+    color:black;
+    font-size: 20px;
+}
+
+
+
